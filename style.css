@@ -1,0 +1,32 @@
+
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   height: 90vh;
+   }
+#button {
+   background-color: turquoise blue;
+   border: none;
+   
+   }
+#form {
+   -webkit-box-shadow: 10px 10px 5px 0px rgba(201,189,201,0.74);
+   -moz-box-shadow: 10px 10px 5px 0px rgba(210,189,201,0.74);
+   box-shadow: 10px 10px 5px 0px rgba(201,189,201,0.74);
+   background-color: pink;
+    text-align:center;
+    padding:2%;
+    padding-left:6%; 
+    padding-right:6%; 
+    border-radius:7px;
+}
+.login {
+    background-color: white;
+    border-radius:5px;
+    -webkit-box-shadow: 10px 15px 50px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 15px 50px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 15px 50px 0px rgba(0,0,0,0.75);
+}  
+ 
